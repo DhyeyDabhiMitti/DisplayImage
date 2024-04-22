@@ -22,7 +22,6 @@ coloredlogs==15.0.1
 constantly==15.1.0
 cycler==0.10.0
 cymem==2.0.6
-debugpy==1.4.1
 deepspeech==0.9.3
 defusedxml==0.7.1
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.3.0/en_core_web_sm-3.3.0-py3-none-any.whl
